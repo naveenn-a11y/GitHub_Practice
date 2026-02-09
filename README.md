@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Next.js + Jest
 
 This example shows how to configure Jest to work with Next.js.
@@ -33,3 +34,6 @@ pnpm create next-app --example with-jest with-jest-app
 ```bash
 npm test
 ```
+=======
+# GitHub_Practice
+>>>>>>> fcffa69b44b09914b11163a2d98b6c96ff6b0433
